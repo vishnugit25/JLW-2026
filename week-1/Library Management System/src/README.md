@@ -12,9 +12,9 @@ Issue books
 Return books
 View available books
 Technologies Used
-Java
-VS Code
-Java Collections Framework
+Exception handling
+Lambda expressions
+streams
 
 Features
 Add Book
