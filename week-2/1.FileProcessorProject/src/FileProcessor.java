@@ -55,7 +55,8 @@ public class FileProcessor implements Runnable {
 
         } catch (IOException e) {
             FileLogger.log( "Error processing file: " + inputFile );
-
+            
+            // print error details
         e.printStackTrace();    
         }
 
